@@ -1,180 +1,163 @@
 {
   "main": {
-    "name":"Dimas Bagus Susilo",
-    "description":"Computer Science Educator & Programmer",
-    "image":"https://lh3.googleusercontent.com/fife/ABSRlIoYWfdz6_b_5OIkdVjTqW93WGOXquVnMHp5OMYtkF01qnFokEESja8umDX_UMjk6U2nftIgznmPWi3ZrZ5geAh96kBrGwsXv3z8ce3Wk7Jd9M8vlOnf6kCDqwcwBD5uDNrbmoZz4zzLZNa9jPU6Dbu5tdBTDoL9ClWE08BRvwnI_Lg4pT9j5onp3QcxuJio5u34Ina4MT4e2qQLLiWW0LpyLQwOzUAOJKzq8frazepx2RVqWZaQi-Z86Dm5ikBBmv7PcOrfQnSiIQkA1TyJNF4M-Jwv9e2cfhJffD8OEOKmLW2QSFyykjF-gUYOb7EWKuSu1-peOOhonT1wRzdtDytXT9usft6KiZTzMCX3zYcP7hAQS33JxiDea5LLoPYSsVFEVLa0TVxjqCKtYsCDqfuEQB1Izsp9pBMhXcG5G-Zp5H8Oo0rg4twtNhepYuNe6rWqkk7WMMFH2H_l_n2KEll2NyOpdPXmD2HHFDAbs8Nih8pktabsp-dQY_oCxmoBC5ADbGWALkeIAT7FAkuhkbsXZNkq51IaXZm4cPKpRoImFK92D0h9UX316CbpKKr6o6G4roxkSsfaTu_FhdCo-rcxw7uuI-Dh59PxWagUTIr57FXaNe3tYvhezQ2NtrnRYUKJ_TeoiugJdX34x02Eyu76kM1OlLCwRJqv0Lg3iMwTgbZQHSzAbiWdZoJbK-5XJMCcefr62xZfuZJh2H3_7A-2Kgl2xbRQIA=w1366-h669-ft",
-    "bio":"Computer Science Educator and Programmer.",
-    "contactmessage":"Contact Us.",
-    "email": "dimasbagussusilo@gmail.com",
-    "phone": "+62 818 0971 3971",
-    "github":"https://github.com/dbsSensei",
-    "project":"https://www.linkedin.com/in/dimasbagussusilo/",
-    "certificate":"https://drive.google.com/drive/folders/10p9qLgd6HYn49mYdSTanV02DIMnQSimi?usp=sharing",
-    "address":{
-      "street":"Jl. Bendungan Melayu",
-      "city":"Jakarta Utara",
-      "state":"DKI Jakarta",
-      "zip": "14230"
+    "name": "Rhobbi Khaidir",
+    "description": "React Native Developer & Computer Technician ",
+    "image": "https://lh3.googleusercontent.com/fife/ABSRlIoYWfdz6_b_5OIkdVjTqW93WGOXquVnMHp5OMYtkF01qnFokEESja8umDX_UMjk6U2nftIgznmPWi3ZrZ5geAh96kBrGwsXv3z8ce3Wk7Jd9M8vlOnf6kCDqwcwBD5uDNrbmoZz4zzLZNa9jPU6Dbu5tdBTDoL9ClWE08BRvwnI_Lg4pT9j5onp3QcxuJio5u34Ina4MT4e2qQLLiWW0LpyLQwOzUAOJKzq8frazepx2RVqWZaQi-Z86Dm5ikBBmv7PcOrfQnSiIQkA1TyJNF4M-Jwv9e2cfhJffD8OEOKmLW2QSFyykjF-gUYOb7EWKuSu1-peOOhonT1wRzdtDytXT9usft6KiZTzMCX3zYcP7hAQS33JxiDea5LLoPYSsVFEVLa0TVxjqCKtYsCDqfuEQB1Izsp9pBMhXcG5G-Zp5H8Oo0rg4twtNhepYuNe6rWqkk7WMMFH2H_l_n2KEll2NyOpdPXmD2HHFDAbs8Nih8pktabsp-dQY_oCxmoBC5ADbGWALkeIAT7FAkuhkbsXZNkq51IaXZm4cPKpRoImFK92D0h9UX316CbpKKr6o6G4roxkSsfaTu_FhdCo-rcxw7uuI-Dh59PxWagUTIr57FXaNe3tYvhezQ2NtrnRYUKJ_TeoiugJdX34x02Eyu76kM1OlLCwRJqv0Lg3iMwTgbZQHSzAbiWdZoJbK-5XJMCcefr62xZfuZJh2H3_7A-2Kgl2xbRQIA=w1366-h669-ft",
+    "bio": "Computer Science Educator and Programmer.",
+    "contactmessage": "Contact Us.",
+    "email": "rhobbie09@gmail.com",
+    "phone": "+62 882 1208 6292",
+    "github": "https://github.com/rhobbikhaidir",
+    "project": "https://www.linkedin.com/in/dimasbagussusilo/",
+    "certificate": "https://drive.google.com/drive/folders/10p9qLgd6HYn49mYdSTanV02DIMnQSimi?usp=sharing",
+    "address": {
+      "street": "Jl. Perjuangan",
+      "city": "Jakarta Utara",
+      "state": "DKI Jakarta",
+      "zip": "14260"
     },
-    "website": "https://github.com/dbsSensei",
-    "resumedownload":"https://drive.google.com/file/d/1IUCa6_LdUvvnmjbCTuIhXPf_6HDZy9yo/view?usp=sharing",
-    
-    "social":[
-      {
-        "name":"facebook",
-        "url":"https://facebook.com/dbs.alwayson",
-        "className":"fa fa-facebook"
+    "website": "https://github.com/rhobbikhaidir",
+    "resumedownload": "https://drive.google.com/file/d/1IUCa6_LdUvvnmjbCTuIhXPf_6HDZy9yo/view?usp=sharing",
+
+    "social": [{
+        "name": "facebook",
+        "url": "https://www.facebook.com/rhobbikhaidir",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/dimasbagussusilo/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dimasbagussusilo/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/dbs.alwayson",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com/dbs.alwayson",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/dbsSensei",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/rhobbikhaidir",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Coding Tools",
-    "education":[
-      {
-        "school":"Progate & UGM",
-        "degree":"Mentor Coding Experience Bootcamp",
-        "graduated":"August 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+  "resume": {
+    "skillmessage": "Coding Tools",
+    "education": [{
+        "school": "Progate & UGM",
+        "degree": "Mentor Coding Experience Bootcamp",
+        "graduated": "August 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"Udemy",
-        "degree":"Node.js, Express, MongoDB & More: The Complete Bootcamp",
-        "graduated":"July 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Udemy",
+        "degree": "Node.js, Express, MongoDB & More: The Complete Bootcamp",
+        "graduated": "July 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"Dicoding",
-        "degree":"Fundamental Front-End Web Development",
-        "graduated":"June 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Dicoding",
+        "degree": "Fundamental Front-End Web Development",
+        "graduated": "June 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"Progate",
-        "degree":"Web Development Path (Node.js)",
-        "graduated":"April 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Progate",
+        "degree": "Web Development Path (Node.js)",
+        "graduated": "April 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"Dicoding",
-        "degree":"SOLID Programming Principles",
-        "graduated":"April 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Dicoding",
+        "degree": "SOLID Programming Principles",
+        "graduated": "April 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"Dicoding",
-        "degree":"Get started programming with Kotlin",
-        "graduated":"April 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Dicoding",
+        "degree": "Get started programming with Kotlin",
+        "graduated": "April 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"GMBI",
-        "degree":"literacy program socializer",
-        "graduated":"November 2019",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "GMBI",
+        "degree": "literacy program socializer",
+        "graduated": "November 2019",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"Ministry of Communication and Informatics, Republic of Indonesia.",
-        "degree":"Machine Learning",
-        "graduated":"October 2019",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Ministry of Communication and Informatics, Republic of Indonesia.",
+        "degree": "Machine Learning",
+        "graduated": "October 2019",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"Python Institute",
-        "degree":"PCAP - Programming essentials in Python",
-        "graduated":"July 2019",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Python Institute",
+        "degree": "PCAP - Programming essentials in Python",
+        "graduated": "July 2019",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"Ministry of Communication and Informatics, Republic of Indonesia.",
-        "degree":"Coding Teacher Academy",
-        "graduated":"June 2019",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Ministry of Communication and Informatics, Republic of Indonesia.",
+        "degree": "Coding Teacher Academy",
+        "graduated": "June 2019",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
-    "work":[
-      {
-        "company":"Coding Bee Academy",
-        "title":"Computer Science Educator",
-        "years":"August 2019 - Present",
-        "description":"Teaching computer science and coding"
+    "work": [{
+        "company": "Coding Bee Academy",
+        "title": "Computer Science Educator",
+        "years": "August 2019 - Present",
+        "description": "Teaching computer science and coding"
       },
       {
-        "company":"DBS Service",
-        "title":"Computer Technician",
-        "years":"January 2015 - March 2019",
-        "description":"Maintenance and repair computer pc or laptop."
+        "company": "DBS Service",
+        "title": "Computer Technician",
+        "years": "January 2015 - March 2019",
+        "description": "Maintenance and repair computer pc or laptop."
       }
     ],
-    "skills":[
-      {
-        "name":"Typescript",
-        "level":"80%"
+    "skills": [{
+        "name": "Javascript",
+        "level": "70%"
       },
       {
-        "name":"Node",
-        "level":"80%"
+        "name": "React Native",
+        "level": "80%"
       },
       {
-        "name":"React",
-        "level":"70%"
+        "name": "React js",
+        "level": "60%"
       },
       {
-        "name":"MongoDB",
-        "level":"75%"
-      },
-      {
-        "name":"Firebase",
-        "level":"70%"
-      },
-      {
-        "name":"Python",
-        "level":"80%"
-      },
-      {
-        "name":"Kotlin",
-        "level":"60%"
+        "name": "Firebase",
+        "level": "80%"
       }
     ]
   },
-  "portfolio":{
-    "projects": [
-      {
-        "title":"Xcidic News App",
-        "category":"React native news app for Xcidic PTE LTD",
-        "image":"https://lh3.google.com/u/0/d/1u9pgV16HMGsrBnrSU1ZVFowcIrC_6wji=w3000-h5331-iv1",
-        "url":"https://expo.io/@dbssensei/xcidic-news-app"
+  "portfolio": {
+    "projects": [{
+        "title": "Xcidic News App",
+        "category": "React native news app for Xcidic PTE LTD",
+        "image": "https://lh3.google.com/u/0/d/1u9pgV16HMGsrBnrSU1ZVFowcIrC_6wji=w3000-h5331-iv1",
+        "url": "https://expo.io/@dbssensei/xcidic-news-app"
       },
       {
-        "title":"Beautiful Natours App",
-        "category":"A full website develope by Restful API",
-        "image":"https://lh3.google.com/u/0/d/1IaeKX-QJOsozQZVOmsg1RErGGW8dJbkr=w3000-h5331-iv1",
-        "url":"https://sureface-natours.herokuapp.com/"
+        "title": "Beautiful Natours App",
+        "category": "A full website develope by Restful API",
+        "image": "https://lh3.google.com/u/0/d/1IaeKX-QJOsozQZVOmsg1RErGGW8dJbkr=w3000-h5331-iv1",
+        "url": "https://sureface-natours.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"https://lh3.google.com/u/0/d/15A9xB6yCkGiDapivmM7nxlVxCVhbQ5bS=w3000-h5331-iv1",
-        "url":"https://github.com/dbsSensei/react-portfolio"
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "https://lh3.google.com/u/0/d/15A9xB6yCkGiDapivmM7nxlVxCVhbQ5bS=w3000-h5331-iv1",
+        "url": "https://github.com/dbsSensei/react-portfolio"
       }
     ]
   }
