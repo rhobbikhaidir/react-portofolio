@@ -78,7 +78,7 @@ class Resume extends Component {
                             <span>Awards</span>
                         </h1>
                         
-                            <a href={"https://drive.google.com/drive/folders/10p9qLgd6HYn49mYdSTanV02DIMnQSimi?usp=sharing"} className="buttons">
+                            <a href={"https://drive.google.com/drive/folders/1eX-sZ79pLJYyQ5bUdgcdModMiUhO5sNC?usp=sharing"} className="buttons">
                                 <i className="fa fa-link"></i>     G-Drive
                             </a>
                        

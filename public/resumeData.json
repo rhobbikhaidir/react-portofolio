@@ -1,15 +1,15 @@
 {
   "main": {
     "name": "Rhobbi Khaidir",
-    "description": "React Native Developer & Web Developer ",
-    "image": "https://lh3.googleusercontent.com/fife/ABSRlIoYWfdz6_b_5OIkdVjTqW93WGOXquVnMHp5OMYtkF01qnFokEESja8umDX_UMjk6U2nftIgznmPWi3ZrZ5geAh96kBrGwsXv3z8ce3Wk7Jd9M8vlOnf6kCDqwcwBD5uDNrbmoZz4zzLZNa9jPU6Dbu5tdBTDoL9ClWE08BRvwnI_Lg4pT9j5onp3QcxuJio5u34Ina4MT4e2qQLLiWW0LpyLQwOzUAOJKzq8frazepx2RVqWZaQi-Z86Dm5ikBBmv7PcOrfQnSiIQkA1TyJNF4M-Jwv9e2cfhJffD8OEOKmLW2QSFyykjF-gUYOb7EWKuSu1-peOOhonT1wRzdtDytXT9usft6KiZTzMCX3zYcP7hAQS33JxiDea5LLoPYSsVFEVLa0TVxjqCKtYsCDqfuEQB1Izsp9pBMhXcG5G-Zp5H8Oo0rg4twtNhepYuNe6rWqkk7WMMFH2H_l_n2KEll2NyOpdPXmD2HHFDAbs8Nih8pktabsp-dQY_oCxmoBC5ADbGWALkeIAT7FAkuhkbsXZNkq51IaXZm4cPKpRoImFK92D0h9UX316CbpKKr6o6G4roxkSsfaTu_FhdCo-rcxw7uuI-Dh59PxWagUTIr57FXaNe3tYvhezQ2NtrnRYUKJ_TeoiugJdX34x02Eyu76kM1OlLCwRJqv0Lg3iMwTgbZQHSzAbiWdZoJbK-5XJMCcefr62xZfuZJh2H3_7A-2Kgl2xbRQIA=w1366-h669-ft",
-    "bio": "React Native Developer and Programmer.",
+    "description": "Front-end Developers",
+    "image": "https://lh3.googleusercontent.com/qX6y_YfbJxrIepJfzBwBaulsvnKLvKAXfpvaCg5kedYY5zsWM3tmkFyZJJZFsWttGpNVHJoeUeloQmW69NS06Y42NWhGfJSrn52wSRQtQ2nq4_T7AsCQYJfCTf_GpmiaztoJHNvBqhfR4Y-vngcGflT-JiYuxqjSj1Fzy4VpqAMeDWq8HMUZuNWDi5Nsph5A0myj3UcCNzST2RvRg0dQ6pV7iDj8rYmbDQ5jEfonPgSYJX2sCT2igr0uH40npCbRc2vJd8Hn1OxtSb9USN4cmCh4qtjO_M2aN9SomFRPcNchnwlgsChFab1cYI2Eun2VFol7OSQhYL1UINVzdfHIqkjFSE_KZg5woHoy0gl77kw3wuP_qkDI35F07QTNviOLQk0qJjAZIu3rDppYsH6PIPcycPXULgNI52rlF7StitHMDfvKkkT6_VkmPAj84VV88serIFEmnCr4858b-KQDI9-jVxOGXgPLttYjvr9JJocCs5lDGHGEmFRMcGe3UKXMDUvO2Eih4aoSiuy4qEWSb4Z-DteNjsAdgvqK3RQ6C7OhM5Zl5jvGrBedME2A3X8GqMGVK0NnkwNraJk5m7LH7HRYIvl94ggxIzlqivweGYSTFCwRJbI6EeC-EWzBGLcaBa0dSKyyA55sSdMmom_6V55XtwVu6r2sonJocIzZSmfbI-xkEzH6I6t1Dvp0=w327-h406-no?authuser=0",
+    "bio": "Front-end Developers",
     "contactmessage": "Contact Us.",
     "email": "rhobbie09@gmail.com",
     "phone": "+62 882 1208 6292",
     "github": "https://github.com/rhobbikhaidir",
-    "project": "https://www.linkedin.com/in/dimasbagussusilo/",
-    "certificate": "https://drive.google.com/drive/folders/10p9qLgd6HYn49mYdSTanV02DIMnQSimi?usp=sharing",
+    "project": "https://web.facebook.com/rhobbikhaidir",
+    "certificate": "https://drive.google.com/file/d/1vlU1iRxh13XWLx6dTL5SSVQfiV0IR_LW/view?usp=sharing",
     "address": {
       "street": "Jl. Perjuangan",
       "city": "Jakarta Utara",
@@ -17,9 +17,10 @@
       "zip": "14260"
     },
     "website": "https://github.com/rhobbikhaidir",
-    "resumedownload": "https://drive.google.com/file/d/1IUCa6_LdUvvnmjbCTuIhXPf_6HDZy9yo/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1vlU1iRxh13XWLx6dTL5SSVQfiV0IR_LW/view?usp=sharing",
 
-    "social": [{
+    "social": [
+      {
         "name": "facebook",
         "url": "https://www.facebook.com/rhobbikhaidir",
         "className": "fa fa-facebook"
@@ -42,11 +43,12 @@
     ]
   },
   "resume": {
-    "skillmessage": "Coding Tools",
-    "education": [{
-        "school": "Progate & UGM",
+    "skillmessage": "Codin  Tools",
+    "education": [
+      {
+        "school": "Progate & DTS",
         "degree": "Mentor Coding Experience Bootcamp",
-        "graduated": "August 2020",
+        "graduated": "October 2020",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
@@ -63,7 +65,7 @@
       },
       {
         "school": "Progate",
-        "degree": "Web Development Path (Node.js)",
+        "degree": "Front-End Web Development Javascripts & React js",
         "graduated": "April 2020",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
@@ -74,13 +76,16 @@
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
-    "work": [{
-      "company": "DBS Service",
-      "title": "Computer Technician",
-      "years": "January 2015 - March 2019",
-      "description": "Maintenance and repair computer pc or laptop."
-    }],
-    "skills": [{
+    "work": [
+      {
+        "company": "DBS Service",
+        "title": "Computer Technician",
+        "years": "January 2015 - March 2019",
+        "description": "Maintenance and repair computer pc or laptop."
+      }
+    ],
+    "skills": [
+      {
         "name": "Javascript",
         "level": "70%"
       },
@@ -99,7 +104,8 @@
     ]
   },
   "portfolio": {
-    "projects": [{
+    "projects": [
+      {
         "title": "Xcidic News App",
         "category": "React native news app for Xcidic PTE LTD",
         "image": "https://lh3.google.com/u/0/d/1u9pgV16HMGsrBnrSU1ZVFowcIrC_6wji=w3000-h5331-iv1",
@@ -114,7 +120,7 @@
       {
         "title": "Resume Website",
         "category": "A React based resume website template",
-        "image": "https://lh3.google.com/u/0/d/15A9xB6yCkGiDapivmM7nxlVxCVhbQ5bS=w3000-h5331-iv1",
+        "image": "https://lh3.googleusercontent.com/bXJ68QnkQDX0FBnlxJkBVjDjdfWjV9uZIwR6hSCeTP8Pl5-getkkWhC_4GPm6cC2WI7tYRwjSong1DJF1dSomw2dhe32GcFrZV0MdzgbegqaEbLYu_NDVYxwpXA8UVKBIDxrTgvtBROX5-FSK0lp7DMB2Z_b7fEjqmyxsYWppKgk4F0WOSEUSj_mUHAMTl-SgVe06tGyQ622QN5iMj54vEHwxrdeuqE8caYcAr6A8dJbrDblFS9Uwz-LdynqwOrt_itVtAj87Isys-IF48fO7t2D1RCzku1oyK9suhfDCg3UUOrvT81t9XkPzGgN1XFY5aYHzpgJGMBmQX19xInSPWDGEpCUvVUlHpKJCpL2nO-np5UxWpLoeyMzxyI7BoRHcdVTbzKwi--NYLZ8D1RFmYKt7yjzwOH1u0zbydTttALOuETAOsWMoANSq2D4cd6FtqLnYHtnn37G6oVrkikiGTV-qC2pF_uMG0oNr8LF5QUMHMvXokmYqaT74BUynA0g-N56cNLSDG2dTKxpW7BrqQ8SqcPkFTGLyBOGw1MbeBnFKSrThFVw_kw525NOSYfUC3-dUDacxrLya6b5IzsVv6F7ljuEBqVDIHdfCswspgXR6lEBQnX5Z8zc_k62eCiGOBSm74xkMDQPb4dv6C0p8TsjnOaPhBUnf9m6YAzgR3c5XAj7xrFmbba9LdSZ=w1190-h669-no?authuser=0",
         "url": "https://github.com/dbsSensei/react-portfolio"
       }
     ]
