@@ -21,7 +21,7 @@ class Footer extends Component {
             <ul className="social-links">{networks}</ul>
 
             <ul className="copyright">
-              <li>&copy; Copyright 2020 RHOKA & Team</li>
+              <li>&copy; Copyright 2020 Rhobbi Khaidir</li>
             </ul>
           </div>
           <div id="go-top">
