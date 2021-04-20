@@ -106,16 +106,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Xcidic News App",
-        "category": "React native news app for Xcidic PTE LTD",
-        "image": "https://lh3.google.com/u/0/d/1u9pgV16HMGsrBnrSU1ZVFowcIrC_6wji=w3000-h5331-iv1",
-        "url": "https://expo.io/@dbssensei/xcidic-news-app"
+        "title": "a community website called Reman",
+        "category": "currently still in the production stage",
+        "image": "https://lh3.googleusercontent.com/UjlnjqFdE7vvTx4DN-3Bovk_gsdMneFDH9ZxnIIFVRMiYd5Q_qvTiX36bMWnKyrEfWcCi1rE2FdUdE5VIz89hxvSHsXQVx_vJ2NjC357IU_oPxu9oiLVdRFP_s1DasRxM3SqV6q9sQj3sW1iAubXyPIKG900EfQwPoD3stN4QsBgcq0RSOKmRblGlqfyAY1pDLinUUbkO9JUm48XjZgjy5jrW5xeuXdQU-u9hslNU4ZfzuTDWI1hfyeRznS-o9RllOtQ2nJiCbKIiNpVIAf73JvPcfSSG0LzRG6q9Tew9w-U-XsSWupdinH_Z2s4hoMUQJRH-SkS2tc6OVF5BOPobiZDUrU_ciuzjH1jHA25qnXlxAUAE4EfJAbw6CDOjFCSfP-nfusodZfNf8ffBudHyZYdc8tBw7_ClxQeYvhbzMO2d6XRmWX6qabGUL_9djOCZOS6ryR46MRrP66vxUvMQl5F-FMKiiG4yE4Nzdmj6EKfLSDWMq9S5Y4dRKJG6U31oXkXIfklA9FyT_fqNE5pUwHN2ChC8mxpaqWHUfsy71sf0G7ZQvmbsq8f1iV7IPUCO5qThoynkFoUELdB_IV0xUA38gIBpCpPSwlRhKBAHF4XiGtGxkNyAUHKGz9lYajc9zL0drQq9nrJC3JMikt0ayrMc45gqWzn0xYUgE5RjSLM7Z0EsPeaxStiEPXGmY0kmO6TH1KA2FW2ZEWiTha2psI=w1190-h669-no?authuser=0",
+        "url": "https://reman.netlify.app/details"
       },
       {
-        "title": "Beautiful Natours App",
-        "category": "A full website develope by Restful API",
-        "image": "https://lh3.google.com/u/0/d/1IaeKX-QJOsozQZVOmsg1RErGGW8dJbkr=w3000-h5331-iv1",
-        "url": "https://sureface-natours.herokuapp.com/"
+        "title": "Beautiful Booking App",
+        "category": "A full website develope by UI/UX",
+        "image": "https://lh3.googleusercontent.com/Vrk2iOCXvvTCjPVQzZnTaImPvOUGFnayDwEYyWeaMRPBIbwEi-mU-jUBZlg1Xg8icjS7MTyQ_MwkZ-Qm0rXe8mvX5KG73sN31UE7xWBwRKebVmvvhfY_KUVWZjtcigF8x9t_74iZJXLlmazIgTAoh84PUZ29sA3HB8fR5w_RwCxzog5Su_CVw1RMaQgbNNBShgYkv3IYHtsj4C6cwoUam15H8yx5sfODYnBz3lPrI6Ils2jDlfzk-twj-pf1NYyGMb8QjpfAKkcNhXVMiU9ekrjn0-lYru6rr84fuTSvYbpUk3sXpvAzXm-l9IODHH0FKxkgpXT2IW64gCp5IgZmD2jet5D--L1i8drvRmXEushZLD6dArJVGbofXp2RjLHsd_9rdnzKWLLBKUNNawCj3tnC0NWsilW9Z8YqhWWtSnIondlnexRncwJ9Q-2XgZo_JEEl3yF8tZdYh0yUo9GrCj0qw_bds7AhsPW07Ha8hoY2v451Bmoef_NTXLXJBlX1rGuJIuRP7b8dVnhzifarJEqmdxPcraDX99Tm1L5HJc5xGwfpbcdR0N_fWwVS7qPkk-rzCyr59fMcAw7oA4rtbk-mkpkrUIw2sgGj6mGJsy85XddkTofxCUNkjE332yCG83JVvDDv14EMBl-ANptY7ZB8pXNqTyjQWYueAjXXZoTbATdqcDuBvDHdiACjNEGT031tuLYIBLO5bB9RQsqJHDQ=w1190-h669-no?authuser=0",
+        "url": "https://staycation09.herokuapp.com/"
       },
       {
         "title": "Resume Website",
